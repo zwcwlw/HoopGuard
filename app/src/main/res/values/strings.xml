@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hoop Guard</string>
+    <string name="splash_context_safe">铁环卫士-安全守护</string>
+    <string name="splash_version">版本号：</string>
+</resources>
